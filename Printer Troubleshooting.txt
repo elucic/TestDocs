@@ -1,0 +1,38 @@
+# ISSUE: My printer doesn't work.
+
+## STEP 1
+Ask if user has a MEV
+If user doesn't have a MEV, go directly to STEP 2.
+If the user has a MEV, make sure the green light is on the MEV. If it's not on, turn on the MEV. It should print a small receipt stating MEV prêt.
+Then go to STEP 2.
+
+## STEP 2
+Make sure printer is online by verifying that it has a green light on.
+
+## STEP 3
+If the printer is on, you can try to print a test page:
+ - Power the printer off.
+ - Press the FEED button while simultaneously turning on the printer.
+ - The printer should print out the firmware version and communication settings.
+ - Press the FEED button again - the printer should print a sequence of letters, numbers, and symbols.
+ - Press the power button to turn off the printer.
+ - Press the power button to turn the printer back on, if desired.
+
+-------
+# ISSUE: Kitchen Printer always needes to be Rebooted
+
+## STEP 1
+If you get an issue about a Kitchen Printer that works but suddenly stops and needs to be rebooted for it to start working again and this happens multiple times a day. Follow this doc...
+It could be an electric problem.
+Ask the client to connect power cable to a Battery Backup.
+
+-------
+# ISSUE: Different Total on Duplicate Receipts
+
+## STEP 1
+If a client says that 2 receipts print ant the total is different, This is because only 1 receipt will print with the MEV Barcode.
+And the MEV doesn't register the Tips!
+If the client wants a 2nd copy with the MEV Barcode, follow these steps:
+ - go in Search to find the receipt
+ - reprint the same receipt 
+ - it will ask if you want to print with barcode or without!
