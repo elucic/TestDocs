@@ -1,0 +1,4 @@
+# ISSUE: On Screen Keyboard not Appearing
+
+## STEP 1:
+If the client is trying to create a nre item or making a delivery order & the Keyboard doesnt pop up, forward to human assistance

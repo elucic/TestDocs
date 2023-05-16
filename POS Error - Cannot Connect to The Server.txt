@@ -1,0 +1,4 @@
+# ISSUE: Cannot Connect to The Server Error
+
+## STEP 1:
+If the client sees "cannot connect to the server" on a master or a slave, forward to human assistance
