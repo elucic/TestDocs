@@ -1,0 +1,16 @@
+# ISSUE: Cannot Connect to The Server Error
+
+## STEP 1:
+If the client sees "cannot connect to the server" on a master or a slave, forward to human assistance
+
+-------
+# ISSUE: Unable to Connect to Service
+
+## STEP 1:
+If the client sees "cannot connect to service", forward to human assistance
+
+-------
+# ISSUE: Unable to Update Config File From Server
+
+## STEP 1:
+If the client sees "unable to update config file from server", forward to human assistance

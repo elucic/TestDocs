@@ -1,0 +1,11 @@
+# ISSUE: On Screen Keyboard not Appearing
+
+## STEP 1:
+If the client is trying to create a nre item or making a delivery order & the Keyboard doesnt pop up, forward to human assistance
+
+-------
+# ISSUE: Cancel Button Missing
+
+## STEP 1:
+If ever a client calls because there is no Cancel Button on Counter Mode, follow these steps:
+- Navigate to Settings/Advanced/Software Settings & Disable Kiosk Mode.
