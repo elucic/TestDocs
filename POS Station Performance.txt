@@ -13,5 +13,3 @@ Reboot the machine
 If the reboot fixes the issue, send an Email to Mike with the Business name/ Location in the Subject.
 If it was a particular POS, mention that too Ex: POS2.
 And attach the screenshots.
-
--------

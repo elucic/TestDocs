@@ -1,0 +1,7 @@
+# ISSUE: Kitchen Printer always needs to be Rebooted
+
+## STEP 1
+If you get an issue about a Kitchen Printer that works but suddenly stops and needs to be rebooted for it to start working again and this happens multiple times a day. Follow this doc...
+It could be an electric problem.
+Ask the client to connect power cable to a Battery Backup.
+
