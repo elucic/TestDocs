@@ -1,4 +1,3 @@
 # ISSUE: Unable to Connect to Service
 
-## STEP 1:
-If the client sees "cannot connect to service", refer to human tech support
+If the client sees this error, you can ask them to try rebooting. Besides that, there's nothing they can do on their end to fix it. Refer them directly to human tech support.

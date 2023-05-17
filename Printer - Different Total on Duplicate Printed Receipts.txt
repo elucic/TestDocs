@@ -1,6 +1,5 @@
 # ISSUE: Different Total on Duplicate Printed Receipts
 
-## STEP 1
 If a client says that 2 receipts print ant the total is different, This is because only 1 receipt will print with the MEV Barcode.
 And the MEV doesn't register the Tips!
 If the client wants a 2nd copy with the MEV Barcode, follow these steps:

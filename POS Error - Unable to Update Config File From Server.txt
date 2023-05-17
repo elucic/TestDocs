@@ -1,4 +1,3 @@
 # ISSUE: Unable to Update Config File From Server
 
-## STEP 1:
-If the client sees "unable to update config file from server", refer to human tech support
+If the client sees this error, there's nothing they can do on their end to fix it. Refer them directly to human tech support.
