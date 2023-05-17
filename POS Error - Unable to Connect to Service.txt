@@ -1,4 +1,4 @@
 # ISSUE: Unable to Connect to Service
 
 ## STEP 1:
-If the client sees "cannot connect to service", forward to human tech support
+If the client sees "cannot connect to service", refer to human tech support
