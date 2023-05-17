@@ -1,7 +1,8 @@
 # ISSUE: My printer doesn't work.
 
 ## STEP 1
-[If the user doesn't have a MEV, skip to the next step.]
+First, we must find out if user has a MEV or not.
+If the user doesn't have a MEV, skip to the next step.
 If the user has a MEV, make sure the green light is on the MEV. If it's not on, please turn on the MEV. It should print a small receipt stating "MEV prêt."
 
 ## STEP 2
