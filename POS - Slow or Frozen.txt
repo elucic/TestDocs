@@ -1,15 +1,8 @@
 # ISSUE: Slow or Frozen POS
 
-## STEP 1:
-First of all, take a screenshot of the following:
+First, please take a screenshot of the following:
 - Connection status, so we can see how many days it has been running consecutively
 - Task manager sorted by memory
 - Task manager sorted by CPU
 
-## STEP 2
-Reboot the machine
-
-## STEP 3
-If the reboot fixes the issue, send an Email to Mike with the Business name/ Location in the Subject.
-If it was a particular POS, mention that too Ex: POS2.
-And attach the screenshots.
+Then, please reboot the machine. If the reboot fixes the issue, please send an email our support address with the business name/location in the subject. If it was a particular POS, please mention that too (e.g. POS2). Please attach the screenshots to the email.
