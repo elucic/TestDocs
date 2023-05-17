@@ -1,4 +1,4 @@
 # ISSUE: Unable to Update Config File From Server
 
 ## STEP 1:
-If the client sees "unable to update config file from server", forward to human assistance
+If the client sees "unable to update config file from server", forward to human tech support
