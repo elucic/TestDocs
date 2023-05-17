@@ -1,4 +1,3 @@
 # ISSUE: On Screen Keyboard not Appearing
 
-## STEP 1:
-If the client is trying to create a nre item or making a delivery order & the Keyboard doesnt pop up, refer to human tech support
+If the client encounters this issue, there's nothing they can do on their end to fix it. Refer them directly to human tech support.
