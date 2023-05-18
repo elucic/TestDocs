@@ -1,5 +1,4 @@
-# ISSUE: Cancel Button Missing
+# ISSUE: Cancel Button Missing on Counter Mode
 
-## STEP 1:
 If ever a client calls because there is no Cancel Button on Counter Mode, follow these steps:
 - Navigate to Settings/Advanced/Software Settings & Disable Kiosk Mode.
