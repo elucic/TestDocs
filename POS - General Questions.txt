@@ -13,6 +13,12 @@
 - Go in Reports
 - Using the 2 calendars, select the starting and finishing date of the report you want then press "Timesheets"
 
-# QUESTION: In Reports, what is the "Cash Return".
-It's what the waiters owe the restaurant in cash! 
+# QUESTION: In Reports, what is the "Cash Return"?
+It's what the waiters owe the restaurant in cash!
 Here is the formula: Total Cash - Total Tips = Cash Return (keep it as a formula, don't try to rephrase)
+
+# QUESTION: How do the Employees Punch In/Out?
+- Log in with Manager code
+- Go in Settings, Features 
+- Select Punch Clock and make sure it's Enabled and that Automatic Punch in is Disabled. 
+- Then each user will have to log in with their code and press Punch in/out to start and end their shift.
