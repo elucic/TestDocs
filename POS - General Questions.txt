@@ -20,5 +20,5 @@ Here is the formula: Total Cash - Total Tips = Cash Return (keep it as a formula
 # QUESTION: How do the Employees Punch In/Out?
 - Log in with Manager code
 - Go in Settings, Features 
-- Select Punch Clock and make sure it's Enabled and that Automatic Punch in is Disabled. 
-- Then each user will have to log in with their code and press Punch in/out to start and end their shift.
+- Select Punch Clock and make sure it's Enabled and that Automatic Punch in is Disabled
+- Then each user will have to log in with their code and press Punch in/out to start and end their shift
