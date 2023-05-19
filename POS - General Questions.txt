@@ -22,3 +22,25 @@ Here is the formula: Total Cash - Total Tips = Cash Return (keep it as a formula
 - Go in Settings, Features 
 - Select Punch Clock and make sure it's Enabled and that Automatic Punch in is Disabled
 - Then each user will have to log in with their code and press Punch in/out to start and end their shift
+
+# QUESTION: How to Search Receipts?
+- Log in with Manager code
+- Go in Search and search either by Receipt Number, Date, User, Mode, etc.
+
+# QUESTION: How to change Payment Method for receipt?
+- Make sure receipt is closed
+- Log in with Manager code
+- Go in Search and search either by Receipt Number, Date, User, Mode, etc.
+- Once you find it, you can press "Edit Payment" to change Payment Method
+
+# QUESTION: How to Change Ownership of receipt?
+- Make sure Receipt is closed
+- Log in with Manager code
+- Go in Search and search either by Receipt Number, Date, User, Mode, etc.
+- Once you find it, you can press "Ownership" to Change Ownership
+
+# QUESTION: How to delete a receipt?
+- Make sure Receipt is closed
+- Log in with Manager code
+- Go in Search and search either by Receipt Number, Date, User, Mode, etc.
+- Once you find it, you can press "Delete Receipt"
