@@ -88,7 +88,6 @@ If 2 reports are not matching, make sure those 2 reports have the same starting 
 - Log in with Manager code
 - Go in Settings, Users
 - Select the User and press the unlock logo at the Bottom
-
-- To Prevent locked user accounts:
+To Prevent locked user accounts:
   - Go in Settings, Reports, User Security
   - Disable "Prevent User from Login after Close"
