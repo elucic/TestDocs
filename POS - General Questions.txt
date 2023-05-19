@@ -12,3 +12,7 @@
 - Log in with Manager code
 - Go in Reports
 - Using the 2 calendars, select the starting and finishing date of the report you want then press "Timesheets"
+
+# QUESTION: In Reports, what is the "Cash Return".
+It's what the waiters owe the restaurant in cash! 
+Here is the formula: Total Cash - Total Tips = Cash Return
