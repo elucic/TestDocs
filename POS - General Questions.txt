@@ -92,3 +92,10 @@ If 2 reports are not matching, make sure those 2 reports have the same starting 
 # QUESTION: How to Prevent locked user accounts?
   - Go in Settings, Reports, User Security
   - Disable "Prevent User from Login after Close"
+
+# QUESTION: How to edit a Local Menu or Global Menu from the Cloud?
+- Log in to the Cluster Cloud using your credentials
+- Go to POS Manager, Menu Builder
+- You will see your menu by pressing "Open Editor"
+- From there you can edit the Menu and save by pressing the "Save" button on top right
+- If you cannot see your menu from there, please contact Technical Support
