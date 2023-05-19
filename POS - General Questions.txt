@@ -99,3 +99,9 @@ If 2 reports are not matching, make sure those 2 reports have the same starting 
 - You will see your menu by pressing "Open Editor"
 - From there you can edit the Menu and save by pressing the "Save" button on top right
 - (If client cannot see your menu from there, refer to human Technical Support)
+
+# QUESTION: How to add Pictures for the Customer Display from the Cloud?
+- (Notify user that when uploading pictures, all current pictures will be overwritten. If there is multiple POS's with more than 1 Customer display, the Pictures will be uploaded to all the POS's.)
+- Log in to the Cluster Cloud using your credentials
+- Go to POS Manager, Customer Display
+- Select the Location then upload the Picture(s)
