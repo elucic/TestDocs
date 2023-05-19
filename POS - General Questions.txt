@@ -55,3 +55,8 @@ Here is the formula: Total Cash - Total Tips = Cash Return (keep it as a formula
 - Select Discount at bottom Left then choose Refund. 
 - Then process the refund just like a Payment. 
 - If you need to refund on a card using the Payment Terminal, make sure refunds are enabled. (Check with Payment Processing Company for that)
+
+# QUESTION: How to enable Automatic Close Day?
+- Log in with Manager code
+- Go in Settings, Reports, Automatic Close Day
+- Enable it and set the time (POS Needs to be turned On for the close day to be done)
