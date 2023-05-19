@@ -74,3 +74,12 @@ If 2 reports are not matching, make sure those 2 reports have the same starting 
 - Go in Modes, Gift Cards
 - Enter the Card Number then the amount
 - Press Activate, re-enter the card number and press enter
+
+# QUESTION: How To Sell a Gift Card (Cluster Card or Datacandy Card)?
+- Firstly make sure there is a Gift Card Item in the Menu and that it's set to "Gift Card Sale" as the Type
+- When entering the order, select Gift Card, enter card number, enter the amount and make the payment
+
+# QUESTION: How To Pay using a Gift Card (Cluster Card or Datacandy Card)?
+- Enter the order and press Payment
+- Select Gift Card as payment method and enter the Card Number 
+- If the funds of the Gift Card are insufficient, you can pay the Balance using another Payment Method
