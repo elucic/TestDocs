@@ -15,4 +15,4 @@
 
 # QUESTION: In Reports, what is the "Cash Return".
 It's what the waiters owe the restaurant in cash! 
-Here is the formula: Total Cash - Total Tips = Cash Return
+Here is the formula: Total Cash - Total Tips = Cash Return (keep it as a formula, don't try to rephrase)
