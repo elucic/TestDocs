@@ -1,0 +1,7 @@
+# ISSUE: Certain Items not printing on Kitchen Printer
+
+- Log in with Manager code 
+- Go in Settings, Menu 
+- Navigate to the Printers section
+- Select the Kitchen Printer 
+- Press "All Modes" on the top and enable the Items/Options you want to print on that Printer

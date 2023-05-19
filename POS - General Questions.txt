@@ -1,12 +1,14 @@
-QUESTION: How to exit the POS Software?
-- Log in with Manager code, go in Settings and press the White "X"
+# QUESTION: How to exit the POS Software?
+- Log in with Manager code
+- Go in Settings
+- Press the White "X"
 
-QUESTION: How to view a Close Day Report?
+# QUESTION: How to view a Close Day Report?
 - Log in with Manager code
 - Go in Reports
 - Using the 2 calendars, select the starting and finishing date of the report you want then press "Sale Stats"
 
-QUESTION: How to view employee timesheets?
+# QUESTION: How to view employee timesheets?
 - Log in with Manager code
 - Go in Reports
 - Using the 2 calendars, select the starting and finishing date of the report you want then press "Timesheets"
