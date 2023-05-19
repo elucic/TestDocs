@@ -87,7 +87,8 @@ If 2 reports are not matching, make sure those 2 reports have the same starting 
 # ISSUE: User account is Locked
 - Log in with Manager code
 - Go in Settings, Users
-- Select the User and press the unlock logo at the Bottom
-To Prevent locked user accounts:
+- Select the User and press the unlock logo at the Bottom (Ask if client wants to prevent this in the future)
+
+# QUESTION: How to Prevent locked user accounts?
   - Go in Settings, Reports, User Security
   - Disable "Prevent User from Login after Close"
