@@ -44,3 +44,8 @@ Here is the formula: Total Cash - Total Tips = Cash Return (keep it as a formula
 - Log in with Manager code
 - Go in Search and search either by Receipt Number, Date, User, Mode, etc.
 - Once you find it, you can press "Delete Receipt"
+
+# QUESTION: How to give Discounts?
+- When entering the order, select Discount at bottom left
+- Select accordingly if you want to discount the entire order or just part of the order
+- Then select the discount in % or a $ amount
