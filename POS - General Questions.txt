@@ -63,3 +63,14 @@ Here is the formula: Total Cash - Total Tips = Cash Return (keep it as a formula
 
 # ISSUE: Reports do not Match
 If 2 reports are not matching, make sure those 2 reports have the same starting date and ending date. Also make sure the time is the same as well.
+
+# QUESTION: How to Enable and use Cluster Gift Cards?
+- Log in with Manager code
+- Go in Settings, Features, POS Module
+- Enable Gift Card.
+
+# QUESTION: How to give away a Gift Card for Free?
+- Log in with Manager code
+- Go in Modes, Gift Cards
+- Enter the Card Number then the amount
+- Press Activate, re-enter the card number and press enter
