@@ -60,3 +60,6 @@ Here is the formula: Total Cash - Total Tips = Cash Return (keep it as a formula
 - Log in with Manager code
 - Go in Settings, Reports, Automatic Close Day
 - Enable it and set the time (POS Needs to be turned On for the close day to be done)
+
+# ISSUE: Reports do not Match
+If 2 reports are not matching, make sure those 2 reports have the same starting date and ending date. Also make sure the time is the same as well.
