@@ -85,11 +85,12 @@ If 2 reports are not matching, make sure those 2 reports have the same starting 
 - If the funds of the Gift Card are insufficient, you can pay the Balance using another Payment Method
 
 # ISSUE: User account is Locked
+(For agent): Ask if client wants to prevent this in the future
+
+Steps:
 - Log in with Manager code
 - Go in Settings, Users
 - Select the User and press the unlock logo at the Bottom
-
-(For agent): Ask if client wants to prevent this in the future
 
 # QUESTION: How to Prevent locked user accounts?
   - Go in Settings, Reports, User Security
