@@ -1,0 +1,14 @@
+# QUESTION: How to Enable Inventory?
+- Log in with Manager code
+- Go in Settings, Features, POS Modules
+- Select Enable Inventory
+
+# QUESTION: How to add items to inventory?
+- Log in with Manager code
+- Go in Settings, Menu
+- Select the Item and choose Inventory on the Top Right and Enable it
+
+# QUESTION: How to add quantity of the items?
+- Log in with Manager code
+- Go in Modes, Inventory
+- Select the Item and add or remove the Quantity from there
